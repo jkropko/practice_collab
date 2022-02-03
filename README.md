@@ -1,2 +1,5 @@
-# practice_collab
-We are populating a list of types of birds in a collaborative way
+# Types of birds!!!!!!
+We will create a list of birds collaboratively to practice a group Git/GitHub workflow.
+
+* Cardinal
+* Seagull

@@ -8,4 +8,5 @@ We will create a list of birds collaboratively to practice a group Git/GitHub wo
 * Penguin
 * Hummingbird
 * Parrot
+* Eagle
 * Big Bird

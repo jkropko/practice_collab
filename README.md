@@ -6,3 +6,4 @@ We will create a list of birds collaboratively to practice a group Git/GitHub wo
 * Pidgeon
 * Robin
 * Penguin
+* Hummingbird
